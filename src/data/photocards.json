@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pc_otl_pkg_eros_jaehee_01",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Jaehee",
+    "isLimited": false,
+    "image": "img/pcs/jaehee-otl-pkg-eros.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_jaehee_02",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Jaehee",
+    "isLimited": true,
+    "image": "img/pcs/jaehee-otl-pkg-eros-limited.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_riku_01",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Riku",
+    "isLimited": false,
+    "image": "img/pcs/riku-otl-pkg-eros.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_riku_02",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Riku",
+    "isLimited": true,
+    "image": "img/pcs/riku-otl-pkg-eros-limited.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_ryo_01",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Ryo",
+    "isLimited": false,
+    "image": "img/pcs/ryo-otl-pkg-eros.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_ryo_02",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Ryo",
+    "isLimited": true,
+    "image": "img/pcs/ryo-otl-pkg-eros-limited.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_sakuya_01",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Sakuya",
+    "isLimited": false,
+    "image": "img/pcs/sakuya-otl-pkg-eros.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_sakuya_02",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Sakuya",
+    "isLimited": true,
+    "image": "img/pcs/sakuya-otl-pkg-eros-limited.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_sion_01",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Sion",
+    "isLimited": false,
+    "image": "img/pcs/sion-otl-pkg-eros.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_sion_02",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Sion",
+    "isLimited": true,
+    "image": "img/pcs/sion-otl-pkg-eros-limited.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_yushi_01",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Yushi",
+    "isLimited": false,
+    "image": "img/pcs/yushi-otl-pkg-eros.avif"
+  },
+  {
+    "id": "pc_otl_pkg_eros_yushi_02",
+    "albumId": "alb_ode_to_love_pkg_eros",
+    "member": "Yushi",
+    "isLimited": true,
+    "image": "img/pcs/yushi-otl-pkg-eros-limited.avif"
+  }
+]
