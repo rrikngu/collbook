@@ -95,7 +95,7 @@ export default function App() {
                 </div>
                 
                 <button className="pull-btn" onClick={performPull}>
-                  Open Another
+                  Open Again
                 </button>
               </div>
             )}
