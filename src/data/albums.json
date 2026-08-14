@@ -7,5 +7,14 @@
     "releaseYear": 2026,
     "coverImage": "img/albums/otl-pkg-eros-thumbnail.png",
     "totalCardCount": 12
+  },
+  {
+    "id": "alb_ode_to_love_pkg_anteros",
+    "artist": "NCT WISH",
+    "albumTitle": "Ode to Love",
+    "version": "Package Ver. Anteros Ver.",
+    "releaseYear": 2026,
+    "coverImage": "img/albums/otl-pkg-anteros-thumbnail.png",
+    "totalCardCount": 12
   }
 ]
