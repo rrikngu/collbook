@@ -15,6 +15,15 @@
     "version": "Package Ver. Anteros Ver.",
     "releaseYear": 2026,
     "coverImage": "img/albums/otl-pkg-anteros-thumbnail.png",
-    "totalCardCount": 13
+    "totalCardCount": 12
+  },
+  {
+    "id": "alb_steady_pkg_i_love_wish",
+    "artist": "NCT WISH",
+    "albumTitle": "Steady",
+    "version": "Package Ver. I Love Wish Ver.",
+    "releaseYear": 2024,
+    "coverImage": "img/albums/otl-pkg-anteros-thumbnail.png",
+    "totalCardCount": 6
   }
 ]
