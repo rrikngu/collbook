@@ -36,7 +36,7 @@ export default function App() {
         <header className="mobile-header">
           <span className="brand-title">collbook</span>
 
-          {/* Album Selector Dropdown */}
+          {/* Album Selector Dropdown WIP */}
           {albums.length > 1 && (
             <select 
               value={selectedAlbumId} 
