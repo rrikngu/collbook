@@ -62,7 +62,7 @@ export default function App() {
           )}
         </header>
 
-        {/* Main Content Area */}
+        {/* Main Content */}
         <main className="mobile-content">
           <div className="unboxing-stage">
             
