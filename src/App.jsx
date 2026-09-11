@@ -62,7 +62,7 @@ export default function App() {
           )}
         </header>
 
-        {/* Main Content NEED TO RESIZE*/}
+        {/* Main Content NEED TO RESIZE wip*/}
         <main className="mobile-content">
           <div className="unboxing-stage">
             
