@@ -37,7 +37,7 @@ body {
   align-items: center;
 }
 
-/* Mobile Frame Shell */
+/* Mobile Frame Shell NEED TO ADJUST*/
 .mobile-shell {
   width: 100%;
   max-width: 430px; /* mobile width on desktop */
