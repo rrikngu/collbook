@@ -31,7 +31,7 @@ body {
 
 .app-viewport {
   min-height: 100vh;
-  min-height: 100dvh; /* wip, for nav bar */
+  min-height: 100dvh; /* wip, for nav bar nned to edit */
   display: flex;
   justify-content: center;
   align-items: center;
